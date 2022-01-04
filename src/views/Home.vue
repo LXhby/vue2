@@ -1,7 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    
+    <span class="text-yellow-400">hhh</span>
+    <div class="font-bold">bold</div>
   </div>
 </template>
 
